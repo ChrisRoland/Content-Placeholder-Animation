@@ -1,1 +1,1 @@
-# Content-Placeholder-Animation - Live Demo:
+# Content-Placeholder-Animation 
